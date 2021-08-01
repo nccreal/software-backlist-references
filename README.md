@@ -10,14 +10,21 @@ This blacklist is used to boycott the organizations and companies listed on the 
 
 **We reiterate: It is forbidden to bring political disputes into the technical field!** Only stupid and weak people will vent their emotions through the technological world.
 
-## Personnel List
+## Personal List
 
 + [dail8859](https://github.com/dail8859)
 
 ## Organization List
 
++ [HashiCorp](https://www.hashicorp.com/)
 + [Notepad++ Team](https://github.com/notepad-plus-plus)
 
 ## Software List
 
++ [Consol](https://www.hashicorp.com/products/consul)
++ [Nomard](https://www.hashicorp.com/products/nomad)
 + [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
++ [Packer](https://www.vagrantup.com/)
++ [Terraform](https://www.hashicorp.com/products/terraform)
++ [Vagrant](https://www.vagrantup.com/)
++ [Vault](https://www.hashicorp.com/products/vault)
