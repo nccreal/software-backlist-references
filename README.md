@@ -1,4 +1,4 @@
-This project belong to [Alexinea-刘怡](https://github.com/alexinea)
+This project belongs to [Alexinea-刘怡](https://github.com/alexinea)
 
 # Software Backlist References
 
